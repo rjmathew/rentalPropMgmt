@@ -1,1 +1,20 @@
-﻿test
+GET list of rental properties
+
+For a rental prop, list of income/expenditures
+
+For a Rental prop, summary
+	rental prop id
+	total profit/loss
+	list<monthlyStat> monthlyStats
+	list<monthlyStat> cumulativeStats
+	
+	jan -100
+	feb 300
+
+	monthlyStats
+	jan -100
+	feb 300
+
+	cumulativeStats
+	jan -100
+	feb 200
